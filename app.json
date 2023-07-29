@@ -6,12 +6,12 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/iwhiwh/My-File-stor-Bot",
+  "repository": "https://github.com/iwhiwh/Ankit-File-Share-Bot",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "6111982752:AAH3VNBhcPvleKamxgLCGmwpCTEOiYxQw2M"
+      "value": "5638090211:AAENpIWo2VpjY3lRAd0yGlzjM9LD3E2-X7E"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -35,7 +35,7 @@
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-1001942168587"
+      "value": "-1001529809682"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
@@ -43,7 +43,7 @@
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
-      "value": "<b>○ My Channel : <a href='https://t.me/The_Happy_Hour_Hindi'>The Happy Hour</a>\n○ My Group : <a href='https://t.me/Happy_Hour_Friends'>Click Here</a></b>\n\n\n<b><a href='https://t.me/The_Happy_Hour_Hindi'>👉 I love you Baby 😉😘🥰❤️💝</a></b>"
+      "value": "<b>○ Main Channel : <a href='https://t.me/+qSjnsXLUV3k0ODg1'>ƬӇҼ ƇRҼⱭƬƠR ƠƑ ƲƝӀVҼRՏҼ</a>\n\n○ Request Group : <a href='https://t.me/thewarriorsreal'>𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ</a></b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
@@ -51,7 +51,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "1991522624",
+      "value": "1991522624 1197918807",
       "required": false
     },
     "PROTECT_CONTENT": {
