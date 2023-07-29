@@ -10,7 +10,7 @@ from logging.handlers import RotatingFileHandler
 
 
 #Bot token @Botfather
-TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "6111982752:AAH3VNBhcPvleKamxgLCGmwpCTEOiYxQw2M")
+TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "5638090211:AAENpIWo2VpjY3lRAd0yGlzjM9LD3E2-X7E")
 
 #Your API ID from my.telegram.org
 APP_ID = int(os.environ.get("APP_ID", "24579842"))
@@ -19,7 +19,7 @@ APP_ID = int(os.environ.get("APP_ID", "24579842"))
 API_HASH = os.environ.get("API_HASH", "ec6105bf1a02c98f837300546dc341d1")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001942168587"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001529809682"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "1942168587"))
@@ -58,10 +58,10 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
-USER_REPLY_TEXT = "❌😡Don't send me messages directly I'm only File Share bot! contact owner - @Mister_Ash"
+USER_REPLY_TEXT = "❌😡Don't send me messages directly I'm only File Share bot!"
 
 ADMINS.append(OWNER_ID)
-ADMINS.append(1942168587)
+ADMINS.append(1942168587 1197918807)
 
 LOG_FILE_NAME = "DigitalRelease.txt"
 
